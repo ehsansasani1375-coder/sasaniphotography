@@ -678,5 +678,13 @@
     "messageText": "فدای تو بشم",
     "timestamp": 1784576535589,
     "isFromAdmin": true
+  },
+  {
+    "id": "ad5c990a-52a1-4829-bc83-1a7207acdb93",
+    "senderId": "925f1ee9-1fa4-4499-9f8e-0e39789eee31",
+    "senderName": "احسان ساسانی",
+    "messageText": "الهی قربونت برم من",
+    "timestamp": 1784576565180,
+    "isFromAdmin": true
   }
 ]
