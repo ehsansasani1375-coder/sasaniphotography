@@ -606,5 +606,13 @@
     "messageText": "عالیه خوبه چیه",
     "timestamp": 1784576897965,
     "isFromAdmin": false
+  },
+  {
+    "id": "84cd24a8-5591-4444-9d63-dee261ad0d58",
+    "senderId": "925f1ee9-1fa4-4499-9f8e-0e39789eee31",
+    "senderName": "احسان ساسانی",
+    "messageText": "عشقم",
+    "timestamp": 1784576457930,
+    "isFromAdmin": true
   }
 ]
