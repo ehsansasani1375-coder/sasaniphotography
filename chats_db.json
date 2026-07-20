@@ -246,5 +246,13 @@
     "messageText": "همش باس اونو بزنیم",
     "timestamp": 1784538233663,
     "isFromAdmin": true
+  },
+  {
+    "id": "afa22c90-9416-4079-a767-39a0e187c99f",
+    "senderId": "18c748b2-6b5d-447d-926d-8679c8932c9b",
+    "senderName": "احسان ساسانی",
+    "messageText": "خخخخ",
+    "timestamp": 1784538237156,
+    "isFromAdmin": true
   }
 ]
