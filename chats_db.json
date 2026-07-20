@@ -270,5 +270,13 @@
     "messageText": "روز جشن گرفتنه",
     "timestamp": 1784538692105,
     "isFromAdmin": false
+  },
+  {
+    "id": "56e31c2f-faae-4669-adb6-c0dcec636dff",
+    "senderId": "18c748b2-6b5d-447d-926d-8679c8932c9b",
+    "senderName": "احسان ساسانی",
+    "messageText": "ای فدات شم من الهی",
+    "timestamp": 1784538258336,
+    "isFromAdmin": true
   }
 ]
