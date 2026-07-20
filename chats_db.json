@@ -470,5 +470,13 @@
     "messageText": "تو خوبی",
     "timestamp": 1784576752687,
     "isFromAdmin": false
+  },
+  {
+    "id": "bb8ea284-9d98-4046-846a-aa11506d74c2",
+    "senderId": "925f1ee9-1fa4-4499-9f8e-0e39789eee31",
+    "senderName": "احسان ساسانی",
+    "messageText": "دیگه نیاز نیست",
+    "timestamp": 1784576316699,
+    "isFromAdmin": true
   }
 ]
