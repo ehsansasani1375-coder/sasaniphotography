@@ -294,5 +294,13 @@
     "messageText": "ای هوداس بپر بخلم",
     "timestamp": 1784538269372,
     "isFromAdmin": true
+  },
+  {
+    "id": "8221679b-4d8d-4fb5-a3ee-afde6114bf4c",
+    "senderId": "18c748b2-6b5d-447d-926d-8679c8932c9b",
+    "senderName": "احسان ساسانی",
+    "messageText": "دنیای منیا",
+    "timestamp": 1784538296782,
+    "isFromAdmin": true
   }
 ]
