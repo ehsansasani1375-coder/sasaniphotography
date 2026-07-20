@@ -638,5 +638,13 @@
     "messageText": "دنیام",
     "timestamp": 1784576921030,
     "isFromAdmin": false
+  },
+  {
+    "id": "115fad7a-098a-46d0-b81c-5d418561e2fb",
+    "senderId": "925f1ee9-1fa4-4499-9f8e-0e39789eee31",
+    "senderName": "احسان ساسانی",
+    "messageText": "یه اسکرین از صفحه چت برام بفرست تو تلگرام",
+    "timestamp": 1784576496994,
+    "isFromAdmin": true
   }
 ]
