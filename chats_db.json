@@ -302,5 +302,13 @@
     "messageText": "دنیای منیا",
     "timestamp": 1784538296782,
     "isFromAdmin": true
+  },
+  {
+    "id": "b760fa62-1e65-4a58-97d1-c172d5613e93",
+    "senderId": "18c748b2-6b5d-447d-926d-8679c8932c9b",
+    "senderName": "احسان ساسانی",
+    "messageText": "سنایی",
+    "timestamp": 1784538319266,
+    "isFromAdmin": true
   }
 ]
