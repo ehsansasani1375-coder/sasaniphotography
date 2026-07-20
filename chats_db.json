@@ -670,5 +670,13 @@
     "messageText": "تو فوق‌العاده ایی",
     "timestamp": 1784576969283,
     "isFromAdmin": false
+  },
+  {
+    "id": "cf844c2c-24b7-4104-a1c8-5473efe29bbc",
+    "senderId": "925f1ee9-1fa4-4499-9f8e-0e39789eee31",
+    "senderName": "احسان ساسانی",
+    "messageText": "فدای تو بشم",
+    "timestamp": 1784576535589,
+    "isFromAdmin": true
   }
 ]
