@@ -542,5 +542,13 @@
     "messageText": "کم کم بریم جلو",
     "timestamp": 1784576822342,
     "isFromAdmin": false
+  },
+  {
+    "id": "08ddcb29-d5ef-4c25-ad55-a41d3aff3c4f",
+    "senderId": "925f1ee9-1fa4-4499-9f8e-0e39789eee31",
+    "senderName": "احسان ساسانی",
+    "messageText": "این موردم بتونم درست تنم خیلی خوف میسه",
+    "timestamp": 1784576384152,
+    "isFromAdmin": true
   }
 ]
