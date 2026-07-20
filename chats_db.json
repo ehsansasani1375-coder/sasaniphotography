@@ -70,5 +70,13 @@
     "messageText": "مبارکت باشه همه کسم",
     "timestamp": 1784538281008,
     "isFromAdmin": false
+  },
+  {
+    "id": "350f8554-a2fc-469d-885d-4e9ff13cff74",
+    "senderId": "18c748b2-6b5d-447d-926d-8679c8932c9b",
+    "senderName": "احسان ساسانی",
+    "messageText": "سلام نفسم",
+    "timestamp": 1784537837854,
+    "isFromAdmin": true
   }
 ]
