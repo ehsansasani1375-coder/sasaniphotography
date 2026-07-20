@@ -574,5 +574,13 @@
     "messageText": "باسه",
     "timestamp": 1784576862381,
     "isFromAdmin": false
+  },
+  {
+    "id": "92b074b7-7c24-4d32-a7a0-07f9f2a22f97",
+    "senderId": "925f1ee9-1fa4-4499-9f8e-0e39789eee31",
+    "senderName": "احسان ساسانی",
+    "messageText": "الهی دورت بگردم",
+    "timestamp": 1784576419476,
+    "isFromAdmin": true
   }
 ]
