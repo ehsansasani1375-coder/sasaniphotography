@@ -238,5 +238,13 @@
     "messageText": "بهترین روز زندگی منم هستش قلبم",
     "timestamp": 1784538218347,
     "isFromAdmin": true
+  },
+  {
+    "id": "aa5ec4ea-565c-40b4-b213-7aca92e22ffd",
+    "senderId": "18c748b2-6b5d-447d-926d-8679c8932c9b",
+    "senderName": "احسان ساسانی",
+    "messageText": "همش باس اونو بزنیم",
+    "timestamp": 1784538233663,
+    "isFromAdmin": true
   }
 ]
