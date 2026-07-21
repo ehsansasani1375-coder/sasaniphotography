@@ -230,5 +230,13 @@
     "messageText": "تقنقذ",
     "timestamp": 1784648531019,
     "isFromAdmin": true
+  },
+  {
+    "id": "158736f9-abda-4fbf-a823-8dde191943a0",
+    "senderId": "43f24962-4e25-47ce-8ca0-d91fe5a5200a",
+    "senderName": "سنا",
+    "messageText": "ایاینینساست",
+    "timestamp": 1784648983953,
+    "isFromAdmin": false
   }
 ]
