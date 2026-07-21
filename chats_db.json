@@ -310,5 +310,13 @@
     "messageText": "نتااتاان",
     "timestamp": 1784649009314,
     "isFromAdmin": false
+  },
+  {
+    "id": "d6e6c08e-7996-4be6-91c8-72232f81c745",
+    "senderId": "43f24962-4e25-47ce-8ca0-d91fe5a5200a",
+    "senderName": "احسان ساسانی",
+    "messageText": "ظتصتصنئنینینیمسکسمیت",
+    "timestamp": 1784648560501,
+    "isFromAdmin": true
   }
 ]
