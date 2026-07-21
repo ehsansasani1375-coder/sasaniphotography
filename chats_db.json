@@ -70,5 +70,13 @@
     "messageText": "سلام",
     "timestamp": 1784647459209,
     "isFromAdmin": false
+  },
+  {
+    "id": "02f70cee-2f0f-4a8d-b294-214b038554cc",
+    "senderId": "c950038b-f0e6-4395-a9db-c29976a4633a",
+    "senderName": "احسان ساسانی",
+    "messageText": "سلام",
+    "timestamp": 1784647476262,
+    "isFromAdmin": true
   }
 ]
