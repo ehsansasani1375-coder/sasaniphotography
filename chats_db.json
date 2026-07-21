@@ -54,5 +54,13 @@
     "messageText": "عشقم مثل قبله ها",
     "timestamp": 1784647854499,
     "isFromAdmin": false
+  },
+  {
+    "id": "2f9a2264-efc0-4b28-9b9a-e31121753ea3",
+    "senderId": "43f24962-4e25-47ce-8ca0-d91fe5a5200a",
+    "senderName": "احسان ساسانی",
+    "messageText": "الان از چتت اسکرین شات بگیر بفلست عشقم تلگرام",
+    "timestamp": 1784647410672,
+    "isFromAdmin": true
   }
 ]
