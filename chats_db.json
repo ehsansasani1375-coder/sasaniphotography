@@ -302,5 +302,13 @@
     "messageText": "ذثتثنثخثخثمثپث",
     "timestamp": 1784648555503,
     "isFromAdmin": true
+  },
+  {
+    "id": "31b21f53-3e88-4509-a135-a7130d90645a",
+    "senderId": "43f24962-4e25-47ce-8ca0-d91fe5a5200a",
+    "senderName": "سنا",
+    "messageText": "نتااتاان",
+    "timestamp": 1784649009314,
+    "isFromAdmin": false
   }
 ]
