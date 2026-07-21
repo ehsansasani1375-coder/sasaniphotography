@@ -94,5 +94,13 @@
     "messageText": "درست نشده",
     "timestamp": 1784648802726,
     "isFromAdmin": false
+  },
+  {
+    "id": "7f24577c-8515-4faf-9400-f82ad308306c",
+    "senderId": "43f24962-4e25-47ce-8ca0-d91fe5a5200a",
+    "senderName": "احسان ساسانی",
+    "messageText": "عشقم",
+    "timestamp": 1784648363880,
+    "isFromAdmin": true
   }
 ]
