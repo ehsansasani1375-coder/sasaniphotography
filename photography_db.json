@@ -11,18 +11,6 @@
       "likesCount": 0,
       "viewsCount": 12,
       "duration": null
-    },
-    {
-      "id": "132e090a-0637-4e5f-9607-9e632b6f556f",
-      "title": "نیتی",
-      "description": "ایعی",
-      "mediaUrl": "https:\/\/cdn.jsdelivr.net\/gh\/ehsansasani1375-coder\/sasaniphotography@main\/media\/afa07561-bce8-43e5-a548-6ff50431c0f8.jpeg?v=72f1d3543b13",
-      "mediaType": "image",
-      "category": "طبیعت",
-      "timestamp": 1793572189818,
-      "likesCount": 0,
-      "viewsCount": 6,
-      "duration": null
     }
   ],
   "deleted_ids": [
@@ -34,7 +22,9 @@
     "cbe864e2-c37a-480a-8cef-9a4c0753120c",
     "media\/4bf52413-1c5b-40a5-b8b9-d7da1800f4c3.jpeg",
     "94e36014-6d29-4f4d-8892-70dd5250b01e",
-    "media\/bf151aac-eceb-4bca-9365-ed56073bbd34.jpeg"
+    "media\/bf151aac-eceb-4bca-9365-ed56073bbd34.jpeg",
+    "132e090a-0637-4e5f-9607-9e632b6f556f",
+    "media\/afa07561-bce8-43e5-a548-6ff50431c0f8.jpeg"
   ],
   "categories": [
     "طبیعت"
