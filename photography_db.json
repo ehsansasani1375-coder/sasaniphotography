@@ -23,18 +23,6 @@
       "likesCount": 0,
       "viewsCount": 1,
       "duration": null
-    },
-    {
-      "id": "cbe864e2-c37a-480a-8cef-9a4c0753120c",
-      "title": "یک روز خوب",
-      "description": "کنارتم",
-      "mediaUrl": "https:\/\/cdn.jsdelivr.net\/gh\/ehsansasani1375-coder\/sasaniphotography@main\/media\/4bf52413-1c5b-40a5-b8b9-d7da1800f4c3.jpeg?v=7cf46562a406",
-      "mediaType": "image",
-      "category": "گالری",
-      "timestamp": 1793569853815,
-      "likesCount": 0,
-      "viewsCount": 3,
-      "duration": null
     }
   ],
   "deleted_ids": [
@@ -42,6 +30,8 @@
     "79b2a13b7cb4f238dba22871c0b73349d99a1363",
     "908ca448-0ff5-4e1b-94e2-6047f00c3346",
     "af7bf0d9-2aa8-411c-ac53-3050bbea51dc",
-    "media\/b4bd8c63-8a98-4716-a003-f17f3db58601.mp4"
+    "media\/b4bd8c63-8a98-4716-a003-f17f3db58601.mp4",
+    "cbe864e2-c37a-480a-8cef-9a4c0753120c",
+    "media\/4bf52413-1c5b-40a5-b8b9-d7da1800f4c3.jpeg"
   ]
 }
