@@ -23,18 +23,9 @@
       "likesCount": 0,
       "viewsCount": 1,
       "duration": null
-    },
-    {
-      "id": "53faff32-d444-4e91-82fd-a1160f145330",
-      "title": "hii",
-      "description": "ghsg",
-      "mediaUrl": "https:\/\/raw.githubusercontent.com\/ehsansasani1375-coder\/sasaniphotography\/main\/media\/984d3e1e-c970-4ffb-b236-678f3b75ef2d.jpeg?sha=79b2a13b7cb4f238dba22871c0b73349d99a1363",
-      "mediaType": "image",
-      "category": "",
-      "timestamp": 1793568967458,
-      "likesCount": 0,
-      "viewsCount": 1,
-      "duration": null
     }
+  ],
+  "deleted_ids": [
+    "53faff32-d444-4e91-82fd-a1160f145330"
   ]
 }
