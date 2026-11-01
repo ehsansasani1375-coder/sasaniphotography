@@ -11,18 +11,6 @@
       "likesCount": 0,
       "viewsCount": 0,
       "duration": null
-    },
-    {
-      "id": "22b7f674-567f-4f5e-a183-c1a8b4d4e3e5",
-      "title": "hi",
-      "description": "hi",
-      "mediaUrl": "https:\/\/cdn.jsdelivr.net\/gh\/ehsansasani1375-coder\/sasaniphotography@main\/media\/f3becbe8-6bca-48fe-84d3-608308d27f21.jpeg?v=79b2a13b7cb4",
-      "mediaType": "image",
-      "category": "",
-      "timestamp": 1793574804205,
-      "likesCount": 0,
-      "viewsCount": 0,
-      "duration": null
     }
   ],
   "deleted_ids": [
@@ -38,7 +26,9 @@
     "132e090a-0637-4e5f-9607-9e632b6f556f",
     "media\/afa07561-bce8-43e5-a548-6ff50431c0f8.jpeg",
     "190a65107a0604b10d182c62f0e8624da9438efc",
-    "media\/ثبتِ یک لحظه‌ی ماندگار در هتل میراژ.jpg"
+    "media\/ثبتِ یک لحظه‌ی ماندگار در هتل میراژ.jpg",
+    "22b7f674-567f-4f5e-a183-c1a8b4d4e3e5",
+    "media\/f3becbe8-6bca-48fe-84d3-608308d27f21.jpeg"
   ],
   "categories": [],
   "deleted_categories": [
