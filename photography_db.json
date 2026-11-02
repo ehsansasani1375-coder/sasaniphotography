@@ -23,9 +23,11 @@
     "33d541d6-26e5-4927-8c8e-45e0afc8b788",
     "media\/4fbae7e8-e66c-4386-9dcd-fc7609111ed9.jpeg"
   ],
-  "categories": [],
+  "categories": [
+    "کافه"
+  ],
   "deleted_categories": [
     "طبیعت"
   ],
-  "categories_updated_at": 1793574092627
+  "categories_updated_at": 1793618389294
 }
