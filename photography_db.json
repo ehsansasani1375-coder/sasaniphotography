@@ -1,18 +1,5 @@
 {
-  "posts": [
-    {
-      "id": "ff7ac311-941b-45ad-b9d6-918c96411ddb",
-      "title": "کافه",
-      "description": "کافه",
-      "mediaUrl": "https:\/\/cdn.jsdelivr.net\/gh\/ehsansasani1375-coder\/sasaniphotography@main\/media\/b1bfdc96-c2d0-408e-b0b5-5b24141abbaa.jpeg?v=ee08fa992c01",
-      "mediaType": "image",
-      "category": "کافه",
-      "timestamp": 1794423558253,
-      "likesCount": 0,
-      "viewsCount": 8,
-      "duration": null
-    }
-  ],
+  "posts": [],
   "deleted_ids": [
     "53faff32-d444-4e91-82fd-a1160f145330",
     "79b2a13b7cb4f238dba22871c0b73349d99a1363",
@@ -40,7 +27,9 @@
     "ed0c8839-b5d1-4f40-86fe-4fa99effca24",
     "media\/85e9b066-4863-41c7-8553-dae5e769c776.jpeg",
     "7a6cccd7-8085-4059-92f7-82cd7784f03b",
-    "media\/2016c623-0d7f-4810-a444-7e2fcad703ab.jpeg"
+    "media\/2016c623-0d7f-4810-a444-7e2fcad703ab.jpeg",
+    "ff7ac311-941b-45ad-b9d6-918c96411ddb",
+    "media\/b1bfdc96-c2d0-408e-b0b5-5b24141abbaa.jpeg"
   ],
   "categories": [
     "کافه"
